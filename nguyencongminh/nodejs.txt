@@ -1,0 +1,12 @@
+những gì hôm nay đã học được:
+-tải nodejs
+	+chạy thử những câu lệnh đơn giản
+	+tạo server
+	+ tìm hiểu về req,res
+- cài npm và express, nodemon
+	+tìm hiểu express
+	+sử lý req với express
+	+đồng bộ với call back
+	+trả về file html,resource
+	+tạo thư mục public
+-chạy được trên loca
