@@ -1,0 +1,34 @@
+body {
+	background:url(../images/content.jpg) no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:cover;
+
+	font-family: 'Raleway', sans-serif;
+	font-weight:300;
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(2, auto);
+}
+div.gallery {
+    margin: 20px;
+    border: 1px solid #ccc;
+    float: left;
+    width: auto;
+  }
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+div.desc {
+    padding: 15px;
+    text-align: center;
+    color:#fff;
+  }
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
